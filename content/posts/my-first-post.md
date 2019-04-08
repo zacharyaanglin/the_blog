@@ -5,7 +5,7 @@ draft: false
 toc: false
 images:
 tags: 
-  - untagged
+  - firstpost
 ---
 
 This is my first post. There are many like it, but this one is mine.
