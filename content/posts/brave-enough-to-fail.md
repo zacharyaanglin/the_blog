@@ -1,7 +1,7 @@
 ---
-title: "Brave enough to fail"
-date: 2019-04-13T13:16:14-04:00
-draft: true
+title: "Brave Enough to Fail"
+date: 2019-04-13T13:32:52-04:00
+draft: falst
 toc: false
 images:
 tags: 
