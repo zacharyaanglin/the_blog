@@ -1,16 +1,16 @@
 ---
 title: "Brave Enough to Fail"
 date: 2019-04-13T13:32:52-04:00
-draft: falst
+draft: true
 toc: false
 images:
 tags: 
   - personal
 ---
 
-Last night, my wife (Kylie: INSERT LINK) and I got to go meet CBS This Morning and former Face the Nation host John Dickerson. He talked for a bit about Einstein anticipating the possibility of black holes, but predicting that they didn't exist in reality. Dickerson stressed that this was an example of Einstein's genius -- that he was willing to make a prediction he was unsure of, but was earnestly seeking to find the truth. In Dickerson's words, Einstein was intelligent (TODO -- figure this one out) enough to be wrong.
+Last night, my wife [Kylie](https://www.kylieanglin.com) and I got to go meet CBS This Morning and former Face the Nation host John Dickerson. He talked for a bit about Einstein anticipating the possibility of black holes, but predicting that they didn't exist in reality. Dickerson stressed that this was an example of Einstein's genius -- that he was willing to make a prediction he was unsure of, but was earnestly seeking to find the truth. In Dickerson's words, Einstein was intelligent (TODO -- figure this one out) enough to be wrong.
 
-I've seen this idea -- that we should take more risks because the consequences of failure aren't that catastrophic, as long as we earnestly seek the truth -- in a few other contexts. [Find the Joe Rogan podcast that references this] ${SPEAKER} argues that we are in the safest period in human history and so insulated from the real risks of failure that we are acting irrationally when we seek to minimize our exposure to things like hunger and financial ruin by working a 9-5 job and going to school. Ray Dalio asserts in _Principles_ that all you really need is food, shelter, and sex, so you should try to maximize your excitement as long as those aren't seriously threatened.
+I've seen this idea -- that we should take more risks because the consequences of failure aren't that catastrophic, as long as we earnestly seek the truth -- in a few other contexts. Joe Rogan argues that we are in the safest period in human history and so insulated from the real risks of failure that we are acting irrationally when we seek to minimize our exposure to things like hunger and financial ruin by working a 9-5 job and going to school. Ray Dalio asserts in _Principles_ that all you really need is food, shelter, and sex, so you should try to maximize your excitement as long as those aren't seriously threatened.
 
 My own best (albeit small) exposure to this sentiment comes from a trivia contest that I played in high school. The Rotary Club of Waco (Texas) sponsored a challenge between schools in the area, sort of similar to Quiz Bowl. It was televised on the local news station, and there was a four-round tournament to win the whole thing. The winner was usually one of the big public schools (Waco, Temple, Belton) or a private school (Vanguard Prep) -- my little rural town had been involved for forty years and only won once (when my dad was the senior captain).
 
