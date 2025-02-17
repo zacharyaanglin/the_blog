@@ -13,13 +13,30 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 # googleAnalytics = "UA-123-45"
 # disqusShortname = "yourdiscussshortname"
 
-[author]
+[Author]
   name = "Zach Anglin"
+  website = "zanglin.xyz"
+  email = "zach@anglin.com"
+  github = "zacharyaanglin"
+  gitlab = "username"
+  bitbucket = "username"
+  twitter = "username"
+  reddit = "username"
+  linkedin = "username"
+  xing = "username"
+  stackoverflow = "users/XXXXXXX/username"
+  snapchat = "username"
+  instagram = "username"
+  youtube = "user/username" # or channel/channelname
+  soundcloud = "username"
+  spotify = "username"
+  bandcamp = "username"
+  itchio = "username"
+  vk = "username"
+  paypal = "username"
+  telegram = "username"
+  500px = "username"
 
-[blackfriday]
-  # hrefTargetBlank = true
-  # noreferrerLinks = true
-  # nofollowLinks = true
 
 [taxonomies]
   tag = "tags"
@@ -58,6 +75,12 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   [[params.social]]
     name = "github"
     url = "https://github.com/zacharyaanglin"
+
+  [[social_icons]]
+    id = "github"
+    url = "https://github.com/zacharyaanglin"
+    title = "GitHub"
+    icon = "fab fa-github"
 
 [menu]
 

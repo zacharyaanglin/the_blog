@@ -1,7 +1,7 @@
 ---
 title: "Brave Enough to Fail"
 date: 2019-04-13T13:32:52-04:00
-draft: true
+draft: false
 toc: false
 images:
 tags: 
