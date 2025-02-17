@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 07 Apr 2019 21:16:14 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 15:18:47 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>529 plans as secret Roth IRAs</title>
+      <link>http://localhost:1313/posts/529/</link>
+      <pubDate>Mon, 17 Feb 2025 15:18:47 -0500</pubDate>
+      <guid>http://localhost:1313/posts/529/</guid>
+      <description>&lt;p&gt;Tl;dr: The 529 plan received a not-very-well-publicized buff recently that makes it far more appealing for people who 1) are uncertain about how much they will need to save for college and 2) are maxing out Roth IRAs. I am one of the people that falls into those overlapping circles, so I&amp;rsquo;m writing this post about how to use these plans to supercharge savings.&lt;/p&gt;&#xA;&lt;p&gt;529s are well-known as a tax shelter for saving for educational purposes. They offer tax-deferred growth that is untaxed for educational purposes and frequently a state tax break. If you&amp;rsquo;re going to have to fund higher-education expenses, it&amp;rsquo;s way better to have the funds for those expenses in a 529 plan than in a taxable account.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
@@ -21,7 +28,7 @@
       <link>http://localhost:1313/about-hugo/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about-hugo/</guid>
-      <description>&lt;p&gt;This is my blog. There are many like it, but this one is mine.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I&amp;rsquo;m Zach. I&amp;rsquo;m a software engineer working remotely in Storrs, Connecticut. I&amp;rsquo;m into personal finance, exercising in my home gym, and exploring around New England with my wife and son. I don&amp;rsquo;t expect anyone to read this blog, but if you do I hope it is helpful to you. Feel free to drop me a line at &lt;a href=&#34;mailto:zach@anglin.com&#34;&gt;zach@anglin.com&lt;/a&gt; if I can do anything for you.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
