@@ -2,25 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/529/</loc>
+    <loc>https://zanglin.xyz/posts/buying-a-honda-pilot/</loc>
+    <lastmod>2025-02-17T20:41:24-05:00</lastmod>
+  </url><url>
+    <loc>https://zanglin.xyz/posts/</loc>
+    <lastmod>2025-02-17T20:41:24-05:00</lastmod>
+  </url><url>
+    <loc>https://zanglin.xyz/</loc>
+    <lastmod>2025-02-17T20:41:24-05:00</lastmod>
+  </url><url>
+    <loc>https://zanglin.xyz/posts/529/</loc>
     <lastmod>2025-02-17T15:18:47-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-02-17T15:18:47-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-02-17T15:18:47-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/firstpost/</loc>
+    <loc>https://zanglin.xyz/tags/firstpost/</loc>
     <lastmod>2019-04-07T21:16:14-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <loc>https://zanglin.xyz/posts/my-first-post/</loc>
     <lastmod>2019-04-07T21:16:14-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://zanglin.xyz/tags/</loc>
     <lastmod>2019-04-07T21:16:14-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about-hugo/</loc>
+    <loc>https://zanglin.xyz/about-hugo/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
 </urlset>

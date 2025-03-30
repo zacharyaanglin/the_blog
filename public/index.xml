@@ -2,32 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zach Anglin&#39;s Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://zanglin.xyz/</link>
     <description>Recent content on Zach Anglin&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 17 Feb 2025 15:18:47 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Feb 2025 20:41:24 -0500</lastBuildDate>
+    <atom:link href="https://zanglin.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Buying a Honda Pilot</title>
+      <link>https://zanglin.xyz/posts/buying-a-honda-pilot/</link>
+      <pubDate>Mon, 17 Feb 2025 20:41:24 -0500</pubDate>
+      <guid>https://zanglin.xyz/posts/buying-a-honda-pilot/</guid>
+      <description>&lt;p&gt;Meta stock &lt;em&gt;was&lt;/em&gt; going up a lot lately, and since I work for Meta and am mostly paid in stock, that means my compensation has gone up a lot as well. I don&amp;rsquo;t hold single stocks, so I always sell whenever they give me RSUs. I did that today, so I have some money to figure out what to do with.&lt;/p&gt;&#xA;&lt;p&gt;My instinct is always to save money over spending it. I&amp;rsquo;ve gotten more liberal with this as I&amp;rsquo;ve saved more money, so I don&amp;rsquo;t stress going out to eat or buying a new gadget anymore. But I am trying to be really conscious about spending money on something like a car.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>529 plans as sneaky Roth IRAs</title>
-      <link>http://localhost:1313/posts/529/</link>
+      <link>https://zanglin.xyz/posts/529/</link>
       <pubDate>Mon, 17 Feb 2025 15:18:47 -0500</pubDate>
-      <guid>http://localhost:1313/posts/529/</guid>
-      <description>&lt;p&gt;Tl;dr: The 529 plan received a not-very-well-publicized buff recently that makes it far more appealing for people who 1) are uncertain about how much they will need to save for college and 2) are maxing out Roth IRAs. I am one of the people that falls into those overlapping circles, so I&amp;rsquo;m writing this post about how to use these plans to supercharge savings.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/529_plan&#34;&gt;529s&lt;/a&gt;  are well-known as a tax shelter for saving for educational purposes. They offer tax-deferred growth that is untaxed for educational purposes and frequently a state tax break. If you&amp;rsquo;re going to have to fund higher-education expenses, it&amp;rsquo;s way better to have the funds for those expenses in a 529 plan than in a taxable account.&lt;/p&gt;</description>
+      <guid>https://zanglin.xyz/posts/529/</guid>
+      <description>&lt;p&gt;Tl;dr: 529 plans received a not-very-well-publicized buff recently that makes it far more appealing for people who 1) are uncertain about how much they will need to save for college and 2) are maxing out Roth IRAs. I am one of the people that falls into those overlapping circles, so I&amp;rsquo;m writing this post about how to use these plans to supercharge savings.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/529_plan&#34;&gt;529s&lt;/a&gt;  are well-known as a tax shelter for saving for educational purposes. They offer tax-deferred growth that is untaxed for educational purposes and frequently a state tax break. If you&amp;rsquo;re going to have to fund higher-education expenses, it&amp;rsquo;s way better to have the funds for those expenses in a 529 plan than in a taxable account.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://zanglin.xyz/posts/my-first-post/</link>
       <pubDate>Sun, 07 Apr 2019 21:16:14 -0400</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://zanglin.xyz/posts/my-first-post/</guid>
       <description>&lt;p&gt;This is my first post. There are many like it, but this one is mine.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about-hugo/</link>
+      <link>https://zanglin.xyz/about-hugo/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about-hugo/</guid>
+      <guid>https://zanglin.xyz/about-hugo/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Zach. I&amp;rsquo;m a software engineer working remotely in Storrs, Connecticut. I&amp;rsquo;m into personal finance, exercising in my home gym, and exploring around New England with my wife and son. I don&amp;rsquo;t expect anyone to read this blog, but if you do I hope it is helpful to you. Feel free to drop me a line at &lt;a href=&#34;mailto:zach@anglin.com&#34;&gt;zach@anglin.com&lt;/a&gt; if I can do anything for you.&lt;/p&gt;</description>
     </item>
   </channel>

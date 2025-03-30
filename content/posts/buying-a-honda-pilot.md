@@ -1,10 +1,10 @@
 ---
 title: "Buying a Honda Pilot"
 date: 2025-02-17T20:41:24-05:00
-draft: true
+draft: false
 ---
 
-Meta stock has been going up a lot lately, and since I work for Meta and am mostly paid in stock, that means my compensation has gone up a lot as well. I don't hold single stocks, so I always sell whenever they give me RSUs. I did that today, so I have some money to figure out what to do with.
+Meta stock _was_ going up a lot lately, and since I work for Meta and am mostly paid in stock, that means my compensation has gone up a lot as well. I don't hold single stocks, so I always sell whenever they give me RSUs. I did that today, so I have some money to figure out what to do with.
 
 My instinct is always to save money over spending it. I've gotten more liberal with this as I've saved more money, so I don't stress going out to eat or buying a new gadget anymore. But I am trying to be really conscious about spending money on something like a car.
 
